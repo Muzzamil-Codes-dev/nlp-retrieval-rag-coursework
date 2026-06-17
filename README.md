@@ -1,7 +1,5 @@
 # Information Retrieval & RAG on Natural Questions
 
-Final coursework for **ECS665U — Introduction to NLP** (Queen Mary University of London).
-
 This project builds an end-to-end information retrieval and Retrieval-Augmented Generation (RAG) system for the Natural Questions dataset. It starts from a sparse TF-IDF baseline, progressively improves retrieval with dense embeddings, hybrid fusion, query expansion, and cross-encoder re-ranking, then plugs the best retrieval setup into a full RAG pipeline with error analysis and a held-out test-set submission.
 
 ## Project overview
